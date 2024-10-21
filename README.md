@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ! [Visit counter](https://komarev.com/ghpvc/?username=MingheShen&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingheshen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingheshen)](https://github.com/anuraghazra/github-readme-stats)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7437--824X-%23A6CE39?logo=orcid)](https://orcid.org/0000-0001-7011-7253)
+
+[![Minghe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingheshen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
